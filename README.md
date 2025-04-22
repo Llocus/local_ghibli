@@ -38,3 +38,21 @@ Enough to run on the RTX 3090.
 ```bash
 python app.py --load-in-4bit
 ```
+
+### 📌 Examples
+
+### Image / Prompt to Image
+
+<img src="https://raw.githubusercontent.com/Llocus/local_ghibli/refs/heads/main/examples/example1.png" width="1200" />  
+</br></br>
+<img src="https://raw.githubusercontent.com/Llocus/local_ghibli/refs/heads/main/examples/example2.png" width="1200" />  
+</br></br>
+<img src="https://raw.githubusercontent.com/Llocus/local_ghibli/refs/heads/main/examples/example3.png" width="1200" />  
+
+### Prompt to Image
+
+<img src="https://raw.githubusercontent.com/Llocus/local_ghibli/refs/heads/main/examples/example4.png" width="1200" />  
+</br></br>
+<img src="https://raw.githubusercontent.com/Llocus/local_ghibli/refs/heads/main/examples/example5.png" width="1200" />  
+</br></br>
+<img src="https://raw.githubusercontent.com/Llocus/local_ghibli/refs/heads/main/examples/example6.png" width="1200" />  
